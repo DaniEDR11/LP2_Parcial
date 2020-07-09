@@ -1,8 +1,4 @@
-<%-- 
-    Document   : login
-    Created on : 24-jun-2020, 18:35:52
-    Author     : Lord Redlawer
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
